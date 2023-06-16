@@ -1,0 +1,1 @@
+Namespace(sys='-', ref='/home/protagointern/labuser/liangguo/MT/data/test.en', order=4, ignore_case=False, sacrebleu=True, sentence_bleu=False)
